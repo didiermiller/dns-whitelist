@@ -1,0 +1,4 @@
+# For information on how to create allow lists, see
+# https://adguard.com/kb/general/ad-filtering/create-own-filters/#exclusionRules
+
+@@||eset.com
